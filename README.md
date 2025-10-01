@@ -16,7 +16,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker;Flutter+Developer;Python+Programmer;Web+Developer;Script+Creator&center=true&size=22&color=00FF00">
   </a>
 </p>
----
+
 
 ## 🕶 About Me
 - 🚀 Passionate about **Cyber Security & Ethical Hacking**
