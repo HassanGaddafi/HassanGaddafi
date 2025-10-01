@@ -1,6 +1,6 @@
 <!-- بانر ماتريكس -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejljMXZmOHRrbGlhOW4zMzk5d3lrY2x0cGgzcWgzaTY0ZWlhajFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="100%" alt="Matrix Banner"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk1N3J2a2lqcTBjYm05dDd5Z3E0NnI4Z3h2dDV0MnIwMm05N3BmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="100%" alt="Matrix Banner"/>
 </p>
 
 <h1 align="center">💀 Welcome to My Digital Underground 💀</h1>
@@ -16,29 +16,59 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker;Flutter+Developer;Python+Programmer;Web+Developer;Script+Creator&center=true&size=22&color=00FF00">
   </a>
 </p>
+---
+
+## 🕶 About Me
+- 🚀 Passionate about **Cyber Security & Ethical Hacking**
+- 📱 Building modern **Android Apps with Flutter**
+- 🐍 Crafting **Python tools, scripts, and automation**
+- 🌐 Skilled in **Web Development**
+- 🎯 Always exploring new tech & challenging myself with CTFs
 
 ---
 
-## 🕶️ عني
-- 🛡️ هاكر أخلاقي | Cyber Security Researcher  
-- 📱 مطور تطبيقات Android باستخدام **Flutter**  
-- 🐍 مبرمج **Python** وصانع سكربتات  
-- 🌐 خبرة في تطوير مواقع الويب  
-
----
-
-## 🛠️ المهارات والتقنيات
+## ⚡ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,css,js,react,nodejs,mysql,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,js,html,css,react,nodejs,git,linux,java,dart" />
 </p>
 
 ---
 
-## ⚡ فلسفتي
-```bash
-while(alive) {
-   learn();
-   build();
-   hack();
-   repeat();
-}
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🛡 Advanced **Cyber Security Scripts**
+- 📱 Cross-platform **Flutter Mobile Apps**
+- ⚙️ Smart **Automation with Python**
+- 🌍 Innovative **Web Solutions**
+
+---
+
+## 🎖️ Certifications
+- ✅ CEH (Certified Ethical Hacker)*
+- ✅ OSCP *(Offensive Security Certified Professional)*  
+- ✅ Flutter & Dart Advanced Development *(Google/Online)*  
+- ✅ Python for Automation & Cyber Security *(Udemy/Coursera/etc.)*  
+
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassan-gaddafi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/HassanGaddafi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
