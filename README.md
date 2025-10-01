@@ -7,7 +7,7 @@
 
 <!-- لوجو هاكر -->
 <p align="center">
-  <img src="https://github.com/HassanGaddafi/HassanGaddafi/blob/main/desktop%20terminator.jpg" width="180" alt="Hacker Logo"/>
+  <img src="https://github.com/HassanGaddafi/HassanGaddafi/blob/main/desktop%20terminator.jpg" width="380" alt="Hacker Logo"/>
 </p>
 
 <!-- Typing Effect -->
@@ -36,15 +36,15 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanGaddafi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanGaddafi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=HassanGaddafi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
