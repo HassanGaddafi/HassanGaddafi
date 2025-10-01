@@ -7,7 +7,7 @@
 
 <!-- لوجو هاكر -->
 <p align="center">
-  <img src="https://i.ibb.co/6s8y5Rt/hacker-logo-green.png" width="180" alt="Hacker Logo"/>
+  <img src="https://github.com/HassanGaddafi/HassanGaddafi/blob/main/desktop%20terminator.jpg" width="180" alt="Hacker Logo"/>
 </p>
 
 <!-- Typing Effect -->
