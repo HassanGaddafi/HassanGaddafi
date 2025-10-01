@@ -58,7 +58,7 @@
 ---
 
 ## 🎖️ Certifications
-- ✅ CEH (Certified Ethical Hacker)*
+- ✅ CEH (Certified Ethical Hacker)
 - ✅ OSCP *(Offensive Security Certified Professional)*  
 - ✅ Flutter & Dart Advanced Development *(Google/Online)*  
 - ✅ Python for Automation & Cyber Security *(Udemy/Coursera/etc.)*  
