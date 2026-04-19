@@ -1,40 +1,34 @@
-<!-- بانر ماتريكس -->
-<p align="center">
-  <img src="hackers_rome.gif" width="100%" alt="Matrix Banner"/>
-</p>
+<h1 align="center">Hassan Gaddafi</h1>
+<h3 align="center">Software Engineer · Python Developer · Cyber Security Enthusiast</h3>
 
-<h1 align="center">💀 Welcome to My Digital Underground 💀</h1>
-
-<!-- لوجو هاكر -->
-<p align="center">
-  <img src="https://github.com/HassanGaddafi/HassanGaddafi/blob/main/desktop%20terminator.jpg" width="380" alt="Hacker Logo"/>
-</p>
-
-<!-- Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker;Flutter+Developer;Python+Programmer;Web+Developer;Script+Creator&center=true&size=22&color=00FF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Python+Developer;Flutter+Developer;Web+Developer;Cyber+Security+Enthusiast&center=true&size=20&color=378ADD&width=440&height=40">
   </a>
 </p>
 
+---
 
-## 🕶 About Me
-- 🚀 Passionate about **Cyber Security & Ethical Hacking**
-- 📱 Building modern **Android Apps with Flutter**
-- 🐍 Crafting **Python tools, scripts, and automation**
-- 🌐 Skilled in **Web Development**
-- 🎯 Always exploring new tech & challenging myself with CTFs
+## About Me
+
+- 🛠 Building practical tools and automation scripts with **Python**
+- 📱 Developing cross-platform mobile apps using **Flutter & Dart**
+- 🔐 Self-taught **Cyber Security enthusiast** — focused on ethical hacking and scripting
+- 🌐 Experienced in **Web Development** with HTML, CSS, and JavaScript
+- 🎯 Always learning — challenging myself with CTFs and real-world projects
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,python,js,html,css,react,nodejs,git,linux,java,dart" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,js,html,css,react,nodejs,git,linux,java" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HassanGaddafi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanGaddafi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
@@ -42,32 +36,37 @@
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HassanGaddafi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🛡 Advanced **Cyber Security Scripts**
-- 📱 Cross-platform **Flutter Mobile Apps**
-- ⚙️ Smart **Automation with Python**
-- 🌍 Innovative **Web Solutions**
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [RemoveForce](https://github.com/HassanGaddafi/RemoveForce) | Force-delete any locked file or folder on Windows | Python |
+| [AutoMail](https://github.com/HassanGaddafi/AutoMail) | Browser extension that auto-registers with fake emails to protect privacy | JavaScript |
+| [SyncChecker](https://github.com/HassanGaddafi/SyncChecker) | Compares two paths and detects differences automatically | HTML |
+| [HotelTech](https://github.com/HassanGaddafi/HotelTech) | Hotel management web solution | JavaScript |
 
 ---
 
-## 🎖️ Courses
-- ✅ Flutter & Dart Advanced Development *(Google/Online)*  
-- ✅ Python for Automation & Cyber Security *(Udemy/Coursera/etc.)*  
+## Courses & Learning
+
+- Python for Automation & Cyber Security — *Udemy / YouTube*
+- Flutter & Dart Development — *Google / Online*
+- Ethical Hacking & Network Security — *Self-taught via practical projects & CTFs*
 
 ---
-  Self-taught Cyber Security enthusiast | Practical experience through hands-on projects
----
 
-## 🌐 Connect with Me
+## Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/hassan-gaddafi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hassan-gaddafi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hassanalkzafy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/HassanGaddafi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
