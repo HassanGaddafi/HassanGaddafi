@@ -57,13 +57,12 @@
 
 ---
 
-## 🎖️ Certifications
-- ✅ CEH (Certified Ethical Hacker)
-- ✅ OSCP *(Offensive Security Certified Professional)*  
+## 🎖️ Courses
 - ✅ Flutter & Dart Advanced Development *(Google/Online)*  
 - ✅ Python for Automation & Cyber Security *(Udemy/Coursera/etc.)*  
 
-
+---
+  Self-taught Cyber Security enthusiast | Practical experience through hands-on projects
 ---
 
 ## 🌐 Connect with Me
